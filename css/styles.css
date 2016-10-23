@@ -1,0 +1,55 @@
+#space {
+  margin-bottom: 35px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #DCB30D;
+}
+
+#whatwho .col-md-8 .well {
+  background-color: #cd5360;
+}
+#whatwho .col-md-4 .well {
+  background-color: #438496;
+}
+
+#whatwho h2 {
+  margin-bottom: 35px;
+}
+
+#quote {
+  padding: 88px;
+  text-align: center;
+}
+
+body {
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.right {
+  float: right;
+  width: 200px;
+}
+
+.right h3 {
+  margin-top: 0px;
+  margin-left: 30px;
+  margin-right: 10px;
+}
+
+#bios h1 {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 4em;
+}
+
+.row .col-md-6 .well:hover {
+  box-shadow: 5px 7px 30px #000;
+}
+
+.footer {
+  font-size: 0.8em;
+  text-align: center;
+}
