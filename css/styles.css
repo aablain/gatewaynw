@@ -7,6 +7,18 @@
   background-color: #DCB30D;
 }
 
+.jumbotron h1, .jumbotron h3 {
+  color: #fff;
+}
+
+.col-md-8 .well h2 {
+  color: #fff;
+}
+
+.white {
+  color: #fff;
+}
+
 #whatwho .col-md-8 .well {
   background-color: #cd5360;
 }
