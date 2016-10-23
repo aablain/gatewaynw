@@ -12,6 +12,7 @@
 }
 #whatwho .col-md-4 .well {
   background-color: #438496;
+  color: #fff;
 }
 
 #whatwho h2 {
@@ -52,4 +53,11 @@ body {
 .footer {
   font-size: 0.8em;
   text-align: center;
+  margin-top: 50px;
+}
+
+#location {
+  background-color: #DCB30D;
+  text-align: center;
+  color: #fff;
 }
